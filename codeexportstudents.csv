@@ -1,0 +1,13 @@
+NAME;EMAIL_ADDRESS;PACKAGE
+Ian Intermediate;ian.intermediate@gmail.com;intermediate
+Ian Intermediate;ian.intermediate_csv@gmail.com;intermediate
+Ian Intermediate:4;ian.intermediate_xml@gmail.com:4;intermediate:4
+Ian Intermediate:7;ian.intermediate_xml@gmail.com:7;intermediate:7
+Nick Newbie;nick.newbie@gmail.com;starter
+Nick Newbie;nick.newbie_csv@gmail.com;starter
+Nick Newbie:3;nick.newbie_xml@gmail.com:3;starter:3
+Nick Newbie:6;nick.newbie_xml@gmail.com:6;starter:6
+Tony Tester;tony.tester@gmail.com;master
+Tony Tester;tony.tester_csv@gmail.com;master
+Tony Tester:2;tony.tester_xml@gmail.com:2;master:2
+Tony Tester:5;tony.tester_xml@gmail.com:5;master:5
